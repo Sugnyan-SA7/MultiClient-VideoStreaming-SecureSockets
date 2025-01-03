@@ -1,4 +1,4 @@
-# Secure Multi-Client Video Streaming Using Python, OpenCV, and SSL
+# Secure Multi-Client Video Streaming Using Python, Sockets, OpenCV, and SSL
 
 This project is an advanced implementation of **Socket Programming** designed for real-time video streaming between a server and multiple clients. It incorporates **SSL/TLS (Secure Sockets Layer)** to establish encrypted communication, ensuring secure data transfer over the network. The server can efficiently manage and stream video to multiple clients simultaneously using multi-threading, making it robust and scalable.
 
